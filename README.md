@@ -16,7 +16,8 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goals: To play more CTFs and Contribute more to Open Source communities 
 - ⚡ Fun fact: multipotentialite and state level Athlete 
-- 👯 Email is the best way to get in touch with me: [Mail](prabith7.g.s@gmail.com)
+- 👯 Email is the best way to get in touch with me:
+- <a href="mailto:cioannou1997@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 
 ### Connect with me AT:
 
