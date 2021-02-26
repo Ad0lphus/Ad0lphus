@@ -1,5 +1,8 @@
 ### Hi there, I'm Prabith  👋
 [![Website](https://img.shields.io/website?label=linkdin.com&style=for-the-badge&url=https://www.linkedin.com/in/prabithgs/)](https://www.linkedin.com/in/prabithgs/)
+
+## I'm a Student, Brother, Developer, and CTF player!!
+
 <p align="center">
   <br><br>
   <samp>
@@ -7,7 +10,7 @@
   </samp>
 </p>
 
-## I'm a Student, Brother, Developer, and CTF player!!
+
 
 - 🔭 I’m a CTF player at [Team Bi0s](https://bi0s.in/) .
 - 🌱 I’m currently learning everything 🤣
