@@ -1,5 +1,11 @@
 ### Hi there, I'm Prabith  👋
 [![Website](https://img.shields.io/website?label=linkdin.com&style=for-the-badge&url=https://www.linkedin.com/in/prabithgs/)](https://www.linkedin.com/in/prabithgs/)
+<p align="center">
+  <br><br>
+  <samp>
+    I'm currently a First Year CSE student at <a href="https://www.amrita.edu/">@ASE :school: </a> and aspiring software developer:computer:. Interested in working on backend, API's, Databases and currently working on Cyber Security :bulb:
+  </samp>
+</p>
 
 ## I'm a Student, Brother, Developer, and CTF player!!
 
