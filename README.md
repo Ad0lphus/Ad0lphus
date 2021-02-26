@@ -1,7 +1,7 @@
 ### Hi there, I'm Prabith  👋
 [![Website](https://img.shields.io/website?label=mirakee.com&style=for-the-badge&url=https://www.mirakee.com/prabith_gupta)](https://www.mirakee.com/prabith_gupta)
 
-## I'm a Student, Brother, Developer, and CTF player!!
+## I'm a Student, Brother, Writer, Developer, and CTF player!!
 
 <p align="center">
   <br><br>
