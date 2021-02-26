@@ -1,5 +1,5 @@
 ### Hi there, I'm Prabith  👋
-[![Website](https://img.shields.io/website?label=linkdin.com&style=for-the-badge&url=https://www.linkedin.com/in/prabithgs/)](https://www.linkedin.com/in/prabithgs/)
+[![Website](https://img.shields.io/website?label=mirakee.com&style=for-the-badge&url=https://www.mirakee.com/prabith_gupta)](https://www.mirakee.com/prabith_gupta)
 
 ## I'm a Student, Brother, Developer, and CTF player!!
 
