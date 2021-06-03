@@ -29,7 +29,7 @@ A **Reverse Engineer** At **[Team Bi0s](https://bi0s.in/)**.
 - 🌱 I’m currently learning everything 🤣
 - 🤔 My interests are Reverse Engineering, Big Data, Data Science and Web Development.
 - 💼 I’m pursuing a Bachelor's degree in Computer Science and Engineering.
-- 💻 Check my [website](https://prabhigupta.github.io/adolph-OS/).
+- 💻 Check my [website](https://prabhigupta.github.io/).
 - 📫 Email me at [prabith7.g.s@gmail.com](mailto:prabith7.g.s@gmail.com).
 
 
