@@ -26,7 +26,10 @@
 A **Reverse Engineer** At **[Team Bi0s](https://bi0s.in/)**.
 <img align="right" alt="GIF" src="https://i.imgur.com/HQFILCM.gif" />
   <!--<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />-->
-
+``
+कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।
+मा कर्मफलहेतुर्भुर्मा ते संगोऽस्त्वकर्मणि ॥
+``
 **About Me!**
 
 - 👨🏽‍💻 I’m a CTF player at [Team Bi0s](https://bi0s.in/) .
@@ -45,10 +48,6 @@ A **Reverse Engineer** At **[Team Bi0s](https://bi0s.in/)**.
 <br><br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhigupta&show_icons=true&locale=en&layout=compact" alt="prabhigupta" /></p>
-``
-कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।
-मा कर्मफलहेतुर्भुर्मा ते संगोऽस्त्वकर्मणि ॥
-``
 <br><br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhigupta&" alt="prabhigupta" /></p>
