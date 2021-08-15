@@ -1,11 +1,14 @@
 <!--Blah-->
+
+<div align="center">
+<h1 title="hehehe"> Hey 👋, I'm Prabith AKA Ad0lphu5!</h1>
+</div>
+
 ```
 कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।
 मा कर्मफलहेतुर्भुर्मा ते संगोऽस्त्वकर्मणि ॥
 ```
-<div align="center">
-<h1 title="hehehe"> Hey 👋, I'm Prabith AKA Ad0lphu5!</h1>
-</div>
+
 <a href="https://www.linkedin.com/in/prabithgs/">
   <img align="left" alt="prabith's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
