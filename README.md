@@ -4,10 +4,7 @@
 <h1 title="hehehe"> Hey 👋, I'm Prabith AKA Ad0lphu5!</h1>
 </div>
 
-``
-कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।
-मा कर्मफलहेतुर्भुर्मा ते संगोऽस्त्वकर्मणि ॥
-``
+
 
 <a href="https://www.linkedin.com/in/prabithgs/">
   <img align="left" alt="prabith's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -48,7 +45,10 @@ A **Reverse Engineer** At **[Team Bi0s](https://bi0s.in/)**.
 <br><br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhigupta&show_icons=true&locale=en&layout=compact" alt="prabhigupta" /></p>
-
+``
+कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।
+मा कर्मफलहेतुर्भुर्मा ते संगोऽस्त्वकर्मणि ॥
+``
 <br><br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhigupta&" alt="prabhigupta" /></p>
