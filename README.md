@@ -6,7 +6,7 @@
 
 
 <p align="center">
-### Websites: 
+<h3>Websites:</h3> 
 <a href="https://prabith.ga/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
         <a href="https://blog.prabith.ga"><img src="https://img.icons8.com/color/48/000000/blog.png"/></a>
         <a href="https://notes.prabith.ga"><img src="https://img.icons8.com/plasticine/64/000000/notes-app.png"/></a>
