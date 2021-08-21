@@ -19,7 +19,8 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
-const prabith = {
+
+const prabith = {               // Aka Adolphus
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Java", "PHP", "C", "CPP"],
     askMeAbout: ["web dev", "tech", "Reverse Engineering", "Cyber Security"],
