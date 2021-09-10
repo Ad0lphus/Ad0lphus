@@ -185,4 +185,4 @@ const prabith = {               // Aka Adolphus
 </p>
 
 
-<img src="https://imgur.com/uhZX1gy"/>
+![](https://i.imgur.com/G46LgYQ.png)
