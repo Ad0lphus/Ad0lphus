@@ -175,9 +175,8 @@ const prabith = {               // Aka Adolphus
 </details>
 
 <br/>
-
-*Random dev joke for you! :) *
-[![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=amxchang)](https://github.com/anuraghazra/github-readme-stats)
+<i>Random dev joke for you! :) </i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
