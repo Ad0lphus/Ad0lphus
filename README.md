@@ -6,7 +6,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=prabhigupta)
-[![twitter badge](https://img.shields.io/badge/twitter-Ad0lphus-0077b5?style=social&logo=twitter)](https://twitter.com/Ad0lphus)
+[![twitter badge](https://img.shields.io/badge/twitter-Ad0lphu5-0077b5?style=social&logo=twitter)](https://twitter.com/Ad0lphu5)
 [![linkedin badge](https://img.shields.io/badge/linkedin-prabithgs-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/prabithgs)
 
 <p align="center">
