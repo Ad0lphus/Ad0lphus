@@ -174,7 +174,6 @@ const prabith = {               // Aka Adolphus
 
 </details>
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=KasRoudra&theme=onedark">
 
 <br/>
 <i>Random dev joke for you! :) </i><br>
