@@ -5,6 +5,10 @@
 </em></p>
 
 
+![](https://komarev.com/ghpvc/?username=prabhigupta)
+[![twitter badge](https://img.shields.io/badge/twitter-Ad0lphus-0077b5?style=social&logo=twitter)](https://twitter.com/Ad0lphus)
+[![linkedin badge](https://img.shields.io/badge/linkedin-prabithgs-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/prabithgs)
+
 <p align="center">
 <h3>Websites:</h3> 
 <a href="https://prabith.ga/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
