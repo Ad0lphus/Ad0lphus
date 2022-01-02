@@ -5,7 +5,7 @@
 </em></p>
 
 
-![](https://komarev.com/ghpvc/?username=prabhigupta)
+![](https://komarev.com/ghpvc/?username=Ad0lphus)
 [![twitter badge](https://img.shields.io/badge/twitter-Ad0lphu5-0077b5?style=social&logo=twitter)](https://twitter.com/Ad0lphu5)
 [![linkedin badge](https://img.shields.io/badge/linkedin-prabithgs-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/prabithgs)
 
@@ -53,7 +53,7 @@ const prabith = {               // Aka Adolphus
 
 ---
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhigupta&theme=algolia" alt="candida18" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ad0lphus&theme=algolia" alt="candida18" /></p>
 
 ## 🛠️ Tech Stack
 
@@ -155,7 +155,7 @@ const prabith = {               // Aka Adolphus
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/prabhigupta"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhigupta&show_icons=true&locale=en&theme=algolia" alt="candida18" height="192px"/></a>
+    <a href="https://github.com/Ad0lphus"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ad0lphus&show_icons=true&locale=en&theme=algolia" alt="candida18" height="192px"/></a>
         </p>
         <p  align="center">
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
@@ -169,7 +169,7 @@ const prabith = {               // Aka Adolphus
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/prabhigupta"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prabhigupta&custom_title=Prabith%20Guptas's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Ad0lphus"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ad0lphus&custom_title=Prabith%20Guptas's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -182,7 +182,7 @@ const prabith = {               // Aka Adolphus
 <p align="center">
   <a href="https://prabith.ga/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
         <a href="mailto:prabith7.g.s@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-        <a href="https://github.com/prabhigupta"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+        <a href="https://github.com/Ad0lphus"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
         <a href="https://linkedin.com/in/prabithgs"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
         <a href="https://www.facebook.com/prabith.gupta"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
         <a href="https://instagram.com/pra3ith"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
