@@ -176,7 +176,8 @@ const prabith = {               // Aka Adolphus
 
 
 <br/>
-## Here is a random dev joke for you!
+
+## 😂 Here is a random dev joke for you !!
 <br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
