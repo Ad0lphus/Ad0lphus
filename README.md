@@ -11,10 +11,10 @@
 
 <p align="center">
 <h3>Websites:</h3> 
-<a href="https://prabith.ga/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-        <a href="https://blog.prabith.ga"><img src="https://img.icons8.com/color/48/000000/blog.png"/></a>
-        <a href="https://notes.prabith.ga"><img src="https://img.icons8.com/plasticine/64/000000/notes-app.png"/></a>
-        <a href="https://ide.prabith.ga"><img src="https://img.icons8.com/bubbles/50/000000/code-file.png"/></a>
+<a href="https://prabith.gq/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+        <a href="https://blog.prabith.gq"><img src="https://img.icons8.com/color/48/000000/blog.png"/></a>
+        <a href="https://notes.prabith.gq"><img src="https://img.icons8.com/plasticine/64/000000/notes-app.png"/></a>
+        <a href="https://ide.prabith.gq"><img src="https://img.icons8.com/bubbles/50/000000/code-file.png"/></a>
 
 
 </p>
@@ -183,7 +183,7 @@ const prabith = {               // Aka Adolphus
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="https://prabith.ga/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+  <a href="https://prabith.gq/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
         <a href="mailto:prabith7.g.s@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
         <a href="https://github.com/Ad0lphus"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
         <a href="https://linkedin.com/in/prabithgs"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
