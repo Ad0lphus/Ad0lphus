@@ -158,7 +158,7 @@ const prabith = {               // Aka Adolphus
     <a href="https://github.com/Ad0lphus"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ad0lphus&show_icons=true&locale=en&theme=algolia" alt="candida18" height="192px"/></a>
         </p>
         <p  align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ad0lphus&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Ad0lphus" height="192px"/>
         </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -169,7 +169,7 @@ const prabith = {               // Aka Adolphus
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Ad0lphus"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ad0lphus&custom_title=Prabith%20Guptas's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Ad0lphus"><img alt="Prabith's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ad0lphus&custom_title=Prabith%20Guptas's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
