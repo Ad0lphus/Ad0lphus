@@ -40,7 +40,7 @@ const prabith = {               // Aka Adolphus
         misc: ["Firebase", "php", "SuiteApp", "IDApro"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "UI/U dev & Reverse Engineering",
+    currentFocus: "UI/UX dev & Reverse Engineering",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
